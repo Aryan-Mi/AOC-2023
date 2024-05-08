@@ -1,3 +1,4 @@
+# Day 2: Cube Conundrum
 import numpy as np
 
 
